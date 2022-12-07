@@ -15,6 +15,5 @@ Neste Desafio de Projeto foi criado uma Wiki para salvar alguns repositórios do
     React
     
 
-Modificação Teste
 
 
